@@ -111,4 +111,30 @@ A pop-up with the message "Thanks for the message!!" is shown, even though no da
 ### Screenshots
 ![demoblaze - Welcome user](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/demoblaze-message.png)
 
+#
+
+
+### 5️⃣ :  Bug ID: BR-5 / Missing Email Field During Sign-Up Process
+
+### Priority: P3 - Normal
+
+### Description
+The website does not provide a field for entering an email address during the sign-up process, which is a potential security issue. Additionally, if a random username and password are entered, the system incorrectly shows a "User already exists" message even though the username does not exist.
+
+### Steps to Reproduce
+1. Go to the site https://www.demoblaze.com/
+2. Click on the Sign Up button.
+3. Enter a random username and password (without any email address).
+4. Click Sign up to confirm.
+
+### Expected Behavior
+   - There should be an input field for the email address during sign-up.
+   - The system should validate the entered data and display an appropriate error if the user doesn't exist.
+   - 
+### Actual Behavior
+   - The sign-up form only asks for a username and password, with no field for an email address.
+   - When random data is entered, the system incorrectly displays "User already exists," even if the username does not exist.
+
+### Screenshots
+![demoblaze - SingUp](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/demoblaze-singUp.png)
 

@@ -1,5 +1,5 @@
 # Bug Reports
-
+Testing the functionality and writing Bug reports on https://www.demoblaze.com/
 ![demoblaze home-page Screenshot](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/Demoblaze.png)
 
 ### Bug ID: BR-1

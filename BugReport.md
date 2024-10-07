@@ -2,7 +2,7 @@
 Testing the functionality and writing Bug reports on https://www.demoblaze.com/
 ![demoblaze home-page Screenshot](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/Demoblaze.png)
 
-### Bug ID: BR-1
+### :one:  Bug ID: BR-1
 
 ### Description
 When a user logs in on the site with a valid username and password, the "Welcome User" button/link in the upper-right corner does not perform any action, preventing access to the account settings
@@ -25,7 +25,7 @@ None available.
 Please complete the following information:
 - OS: macOS
 - Browser: Chrome
-- Version 129.0.6668.90 (Official Build) (arm64)
+- Version 129.0.6668.90 
 
 ### Test data: Username: Ceao & Password: 1234
 

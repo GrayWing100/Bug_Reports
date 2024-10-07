@@ -1,4 +1,6 @@
-## Bug Reports
+# Bug Reports
+
+![demoblaze home-page Screenshot](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/Demoblaze.png)
 
 ### Bug ID: BR-1
 

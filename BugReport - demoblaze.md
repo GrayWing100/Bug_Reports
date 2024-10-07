@@ -54,7 +54,8 @@ No action occurs when clicking the "Welcome User" button.
 ### Screenshots
 ![demoblaze - Welcome user](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/demoblaze-welcomeUser.png)
 
-### Test data: Username: Ceao & Password: 1234
+### Test data
+Username: Ceao & Password: 1234
 
 #
 
@@ -85,7 +86,8 @@ The system processes the order successfully and displays a "Thank you for your p
 ### Screenshots
 ![demoblaze - Welcome user](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/demoblaze-creditCard.png)
 
-### Test data: Username: Random Text & Password: Random Numbers
+### Test data
+Username: Random Text & Password: Random Numbers
 
 #
 
@@ -138,6 +140,7 @@ he website does not provide a field for entering an email address during the sig
 ### Screenshots
 ![demoblaze - SingUp](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/demoblaze-singUp.png)
 
-### Test data: Username: Random Text & Password: Random Numbers
+### Test data
+Username: Random Text & Password: Random Numbers
 
 

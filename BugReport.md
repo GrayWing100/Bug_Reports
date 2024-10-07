@@ -28,7 +28,7 @@ The play button should be centered on the video for proper user experience.
 The play button appears at the top left corner of the screen and functions correctly when clicked.
 
 ### Screenshots
-None available.
+![demoblaze - Play button](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/demoblaze-playButton.png)
 
 #
 
@@ -83,7 +83,7 @@ The system should validate the credit card information and prevent the order fro
 The system processes the order successfully and displays a "Thank you for your purchase" message despite invalid credit card data.
 
 ### Screenshots
-None available.
+![demoblaze - Welcome user](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/demoblaze-creditCard.png)
 
 ### Test data: Username: Random Text & Password: Random Numbers
 
@@ -109,7 +109,6 @@ A notification should appear informing the user that the form is incomplete or e
 A pop-up with the message "Thanks for the message!!" is shown, even though no data was submitted.
 
 ### Screenshots
-None available.
-
+![demoblaze - Welcome user](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/demoblaze-message.png)
 
 

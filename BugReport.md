@@ -3,33 +3,27 @@
 ### Bug ID: BR-1
 
 ### Description
-When user logs in on the site with username and password, the "Welcome User" button / link from the upper-right corner makes nothing.
+When a user logs in on the site with a valid username and password, the "Welcome User" button/link in the upper-right corner does not perform any action, preventing access to the account settings
 
 ### Steps to Reproduce
 1. Go to the site https://www.demoblaze.com/
 2. Log in with correct username and password
-3. Click on "Welcome User", on the right corner.
+3. Click on the "Welcome User" button in the upper-right corner.
 
 ### Expected Behavior
-User should be redirected to the settings of the account.
+The user should be redirected to the account settings page.
 
 ### Actual Behavior
-Nothing special happens on the website.
+No action occurs when clicking the "Welcome User" button.
 
 ### Screenshots
-none
+None available.
 
 ### Environment
 Please complete the following information:
-- OS: [e.g., Windows, macOS, Linux]
-- Browser [e.g., Chrome, Firefox, Safari]
-- Version [e.g., 22]
-
-### Additional Context
-_Add any other context about the problem here (logs, error messages, etc.)_
+- OS: macOS
+- Browser: Chrome
+- Version 129.0.6668.90 (Official Build) (arm64)
 
 ### Test data: Username: Ceao & Password: 1234
 
----
-
-**Note**: Please make sure the bug is not a duplicate by searching through open issues before submitting.

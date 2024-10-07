@@ -52,7 +52,7 @@ The user should be redirected to the account settings page.
 No action occurs when clicking the "Welcome User" button.
 
 ### Screenshots
-![demoblaze - Welcome user](https://github.com/GrayWing100/Manual-QA-Testing/blob/main/pictures/Facebook.png)
+![demoblaze - Welcome user](https://github.com/GrayWing100/Bug_Reports/blob/main/pictures/demoblaze-welcomeUser.png)
 
 ### Test data: Username: Ceao & Password: 1234
 
